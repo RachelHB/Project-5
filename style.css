@@ -1,0 +1,22 @@
+
+.body {
+
+    background-image: url("cci.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.page {
+    
+    margin-top:400px;
+    margin-left:38%;
+    width:500px;
+    height: 300px;
+
+}
+
+#text {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
